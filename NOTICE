@@ -1,6 +1,14 @@
-Apache Mynewt NimBLE
-Copyright 2015-2022 The Apache Software Foundation
-Modifications Copyright 2017-2023 Espressif Systems (Shanghai) CO., LTD.
+esp32h2-bt-lib
+
+This distribution contains libraries that include code derived from
+the following upstream project(s). The upstream code from these listed
+project(s) is licensed under the Apache License, Version 2.0. See the
+LICENSE file in this directory for the full license text.
+
+1. Apache Mynewt NimBLE (https://github.com/apache/mynewt-nimble)
+
+Copyright 2015-2021 The Apache Software Foundation
+Modifications Copyright 2017-2026 Espressif Systems (Shanghai) CO., LTD.
 
 This product includes software developed at
 The Apache Software Foundation (http://www.apache.org/).
